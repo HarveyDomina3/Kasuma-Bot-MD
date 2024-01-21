@@ -3,8 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['593995668111', 'Guillermo', true],
-  ['573014953662', 'Sebastian', false],
+  ['18297521125', 'Harvey', true],
 
 ] //Numeros de owner 
 
@@ -59,7 +58,7 @@ global.wagit = 'https://github.com/ByTraxnox-X/KasumaBot-MD'
 global.wayt = 'https://youtube.com/@by_traxnox'
 global.wapyp = 'https://paypal.me/txpaying?country.x=CO&locale.x=es_XC'
 global.fglog = 'https://i.imgur.com/mWHCPIe.jpg'
-global.numero = ['593995668111']
+global.numero = ['18297521125']
 global.wait = 'Cargando'
 global.rwait = '⌛'
 global.dmoji = '🤭'
